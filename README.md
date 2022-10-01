@@ -1,5 +1,7 @@
 # TwitterBob-Omb
 
+![image](https://user-images.githubusercontent.com/13191176/193420949-c21784c9-03f7-4428-a62d-04a183928880.png)
+
 This does precisely one thing, and that is delete all your Tweets.
 In the true spirit of Dev-Jank™, it's thrown together with speed (of implementation) in mind.
 
